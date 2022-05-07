@@ -12,6 +12,12 @@
 <img src="Color_Blending.jpg" width="75%"></img>
 </p>
 
+## Taichi Logo
+
+<p align="center">
+<img src="Taichi_Logo.jpg" width="75%"></img>
+</p>
+
 - - -
 
 We invite you to create your voxel artwork, by putting your [Taichi](https://github.com/taichi-dev/taichi) code in `main.py`!
