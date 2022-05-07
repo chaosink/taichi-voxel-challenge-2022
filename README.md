@@ -6,6 +6,12 @@
 <img src="RGB_Stairs.jpg" width="75%"></img>
 </p>
 
+## Color Blending
+
+<p align="center">
+<img src="Color_Blending.jpg" width="75%"></img>
+</p>
+
 - - -
 
 We invite you to create your voxel artwork, by putting your [Taichi](https://github.com/taichi-dev/taichi) code in `main.py`!
