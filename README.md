@@ -18,6 +18,12 @@
 <img src="Taichi_Logo.jpg" width="75%"></img>
 </p>
 
+## Penetration
+
+<p align="center">
+<img src="Penetration.jpg" width="75%"></img>
+</p>
+
 - - -
 
 We invite you to create your voxel artwork, by putting your [Taichi](https://github.com/taichi-dev/taichi) code in `main.py`!
