@@ -24,6 +24,14 @@
 <img src="Penetration.jpg" width="75%"></img>
 </p>
 
+## Lines
+
+<p align="center">
+<img src="Lines0.jpg" width="75%"></img>
+<img src="Lines1.jpg" width="75%"></img>
+<img src="Lines2.jpg" width="75%"></img>
+</p>
+
 - - -
 
 We invite you to create your voxel artwork, by putting your [Taichi](https://github.com/taichi-dev/taichi) code in `main.py`!
