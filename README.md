@@ -34,49 +34,29 @@
 
 ## Nested Frames
 
-### 2D Sparse
+### 2D Sparse/Dense
 <p align="center">
-<img src="Nested_Frames.2D.Sparse.jpg" width="75%"></img>
+<img src="Nested_Frames.2D.Sparse.jpg" width="48%"></img>
+<img src="Nested_Frames.2D.Dense.jpg" width="48%"></img>
 </p>
 
-### 2D Dense
+### 3D Sparse/Dense
 <p align="center">
-<img src="Nested_Frames.2D.Dense.jpg" width="75%"></img>
+<img src="Nested_Frames.3D.Sparse.jpg" width="48%"></img>
+<img src="Nested_Frames.3D.Dense.jpg" width="48%"></img>
 </p>
 
-### 3D Sparse
+### 3D Colorful
 <p align="center">
-<img src="Nested_Frames.3D.Sparse.jpg" width="75%"></img>
-</p>
-
-### 3D Dense
-<p align="center">
-<img src="Nested_Frames.3D.Dense.jpg" width="75%"></img>
-</p>
-
-### 3D Colorful 0
-<p align="center">
-<img src="Nested_Frames.3D.Colorful.0.jpg" width="75%"></img>
-</p>
-
-### 3D Colorful 1
-<p align="center">
-<img src="Nested_Frames.3D.Colorful.1.jpg" width="75%"></img>
+<img src="Nested_Frames.3D.Colorful.0.jpg" width="48%"></img>
+<img src="Nested_Frames.3D.Colorful.1.jpg" width="48%"></img>
 </p>
 
 ### 3D Blades
 <p align="center">
-<img src="Nested_Frames.3D.Blades.jpg" width="75%"></img>
-</p>
-
-### 3D Blades Colorful 0
-<p align="center">
-<img src="Nested_Frames.3D.Blades.Colorful.0.jpg" width="75%"></img>
-</p>
-
-### 3D Blades Colorful 1
-<p align="center">
-<img src="Nested_Frames.3D.Blades.Colorful.1.jpg" width="75%"></img>
+<img src="Nested_Frames.3D.Blades.jpg" width="32%"></img>
+<img src="Nested_Frames.3D.Blades.Colorful.0.jpg" width="32%"></img>
+<img src="Nested_Frames.3D.Blades.Colorful.1.jpg" width="32%"></img>
 </p>
 
 - - -
